@@ -70,7 +70,7 @@
     text-decoration: none;
 }
 
-.categories input.searchbox{
+.search-container{
     border-style: round;
     border-radius: 30px;
     border-color: #3d5263;
@@ -78,10 +78,12 @@
     height: 35px;
 }
 
-/* .categories .search-button{
-    width: 300px;
+.search-lens{
+    width: 30px;
     height: 30px;
-} */
+    margin-left: 1120px;
+    margin-top: -28px;
+}
 
 .hanger{
     background-color: none;
